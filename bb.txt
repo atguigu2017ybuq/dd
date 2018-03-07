@@ -1,2 +1,2 @@
-bbbbbbaab
-this update file
+123456
+abcdef
